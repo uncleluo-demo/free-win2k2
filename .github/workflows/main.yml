@@ -1,4 +1,4 @@
-name: Windows Server 2022 - RustDesk
+name: Windows Server 服务器版 2022 - RustDesk
 
 on:
   workflow_dispatch:
